@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: AndroMDA.org
+Implementation-Title: AndroMDA Hibernate Cartridge
+Implementation-Version: 3.4
+Implementation-Vendor-Id: org.andromda.cartridges
+Built-By: RJF3
+Build-Jdk: 1.6.0_35
+Created-By: Apache Maven 3.0.4
+Implementation-Build: 2012-09-07 17:07:51
+Archiver-Version: Plexus Archiver
+
